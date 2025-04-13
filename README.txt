@@ -1,32 +1,24 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Yash Gaikwad Portfolio
 
+Welcome to my personal portfolio website — a curated showcase of my skills, projects, and experience in data analysis, API development, and business intelligence.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+## 🌟 About Me
+I'm a Data Analyst with an engineer’s precision and a strategist’s mindset. My toolkit includes SQL, Python, Power BI, Tableau, and Mulesoft — and I specialize in transforming raw data into actionable insights for real-world decisions.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 💼 What You'll Find
+- **Featured Projects**: Case studies with quantifiable business impact, built using real-world tools and datasets.
+- **Resume**: A concise snapshot of my education, experience, and core competencies.
+- **Contact Section**: Get in touch via email or LinkedIn, or send a direct message from the site.
 
-(* = not included)
+## 🚀 Tech Stack
+- **Frontend**: HTML, CSS, JavaScript
+- **Visualization Tools**: Tableau, Power BI
+- **Backend/Data**: SQL, Python (Pandas, NumPy), Mulesoft, Oracle, MongoDB
 
-AJ
-aj@lkn.io | @ajlkn
+## 🔗 Live Site
+https://yashvgaikwad.github.io/
 
+---
 
-Credits:
+Feel free to fork, clone, or reach out — I’m always open to collaboration and feedback!
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
