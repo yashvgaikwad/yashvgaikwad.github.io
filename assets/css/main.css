@@ -3525,11 +3525,15 @@ input, select, textarea {
 			  }
 			
 			  .mobile-image {
+				display: flex;
+  				justify-content: center;
 				margin-bottom: 1.5rem;
 				margin-top: 0rem;
 			  }
 			
 			  .mobile-image img {
+				display: flex;
+  				justify-content: center;
 				width: 250px;
 				height: 250px;
 				border-radius: 50%;
@@ -3540,7 +3544,7 @@ input, select, textarea {
 				font-size: 17.5px;
 				margin-top: 0.5rem;
 				font-style: italic;
-				margin-bottom: 5rem;
+				margin-bottom: 2.5rem;
 			}
 
 				#intro h1 {
@@ -3557,8 +3561,12 @@ input, select, textarea {
 				}
 
 				#intro .actions {
-					display: none;
-					
+					display: scroll;
+				}
+				.intro-scroll{
+					justify-content: center;
+					margin-top: 2px;
+					margin-bottom: 2px;
 				}
 
 				
