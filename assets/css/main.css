@@ -2237,7 +2237,8 @@ input, select, textarea {
 				background-color: #cfa58c;
 			}
 
-/* Form */
+
+/* Form ---------------------------------------------------------------------------------------------------------*/
 
 	form {
 		margin: 0 0 2rem 0;
@@ -3280,6 +3281,8 @@ input, select, textarea {
 			}
 
 		}
+
+		
 
 /* Intro */
 	
